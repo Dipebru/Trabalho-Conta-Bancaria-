@@ -1,0 +1,16 @@
+C:\Users\Biblioteca.DESKTOP-I6OALM1\Desktop\AppContaBancaria\bin\Debug\net5.0\AppContaBancaria.exe
+C:\Users\Biblioteca.DESKTOP-I6OALM1\Desktop\AppContaBancaria\bin\Debug\net5.0\AppContaBancaria.deps.json
+C:\Users\Biblioteca.DESKTOP-I6OALM1\Desktop\AppContaBancaria\bin\Debug\net5.0\AppContaBancaria.runtimeconfig.json
+C:\Users\Biblioteca.DESKTOP-I6OALM1\Desktop\AppContaBancaria\bin\Debug\net5.0\AppContaBancaria.runtimeconfig.dev.json
+C:\Users\Biblioteca.DESKTOP-I6OALM1\Desktop\AppContaBancaria\bin\Debug\net5.0\AppContaBancaria.dll
+C:\Users\Biblioteca.DESKTOP-I6OALM1\Desktop\AppContaBancaria\bin\Debug\net5.0\AppContaBancaria.pdb
+C:\Users\Biblioteca.DESKTOP-I6OALM1\Desktop\AppContaBancaria\obj\Debug\net5.0\AppContaBancaria.csproj.AssemblyReference.cache
+C:\Users\Biblioteca.DESKTOP-I6OALM1\Desktop\AppContaBancaria\obj\Debug\net5.0\AppContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Biblioteca.DESKTOP-I6OALM1\Desktop\AppContaBancaria\obj\Debug\net5.0\AppContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Biblioteca.DESKTOP-I6OALM1\Desktop\AppContaBancaria\obj\Debug\net5.0\AppContaBancaria.AssemblyInfo.cs
+C:\Users\Biblioteca.DESKTOP-I6OALM1\Desktop\AppContaBancaria\obj\Debug\net5.0\AppContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Biblioteca.DESKTOP-I6OALM1\Desktop\AppContaBancaria\obj\Debug\net5.0\AppContaBancaria.dll
+C:\Users\Biblioteca.DESKTOP-I6OALM1\Desktop\AppContaBancaria\obj\Debug\net5.0\refint\AppContaBancaria.dll
+C:\Users\Biblioteca.DESKTOP-I6OALM1\Desktop\AppContaBancaria\obj\Debug\net5.0\AppContaBancaria.pdb
+C:\Users\Biblioteca.DESKTOP-I6OALM1\Desktop\AppContaBancaria\obj\Debug\net5.0\AppContaBancaria.genruntimeconfig.cache
+C:\Users\Biblioteca.DESKTOP-I6OALM1\Desktop\AppContaBancaria\obj\Debug\net5.0\ref\AppContaBancaria.dll
